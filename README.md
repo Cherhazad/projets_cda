@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 # Site CV de Chérhazad BOUSTANI - Conceptrice Développeuse d'Applications Full Stack Filière JAVA en recherche d'alternance
 
 ## Introduction 
